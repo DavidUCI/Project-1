@@ -27,11 +27,15 @@ h1{
     text-align: center;
     font-size: xx-large;
     color: white;
+    font-family: 'Star Wars', sans-serif;
 }
 
 p{
     text-align: center;
     color: white;
+    font-size: larger;
+    background-color: black;
+    
 }
 
 .image-row {
@@ -44,6 +48,7 @@ h2{
     text-align: center;
     margin-top: 100px;
     color: white;
+    background-color: black;
 }
 
 .platforms{
